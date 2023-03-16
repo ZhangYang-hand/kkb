@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",//输出目录
+    "module": "UMD",//编译模式
+  }
+}

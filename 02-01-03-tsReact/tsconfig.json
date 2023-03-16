@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,//统一import模式
+    "jsx": "react"//将jsx语法转换为react构造
+  }
+}
